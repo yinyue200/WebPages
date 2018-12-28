@@ -47,3 +47,7 @@ If you are under 13, we don't want your personal information, and you must not p
 What if we change this privacy policy or any of our privacy notices?
 
 We may need to change this policy and our notices. The updates will be posted online. If the changes are substantive, we will announce the update through Github for such announcements such as blog posts and forums. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page.
+
+=========================
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
