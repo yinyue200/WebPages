@@ -44,7 +44,9 @@ What else should you know?
 We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
 
 If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please contact us to have your child's information removed.
-What if we change this privacy policy or any of our privacy notices?
+
+
+## What if we change this privacy policy or any of our privacy notices?
 
 We may need to change this policy and our notices. The updates will be posted online. If the changes are substantive, we will announce the update through Github for such announcements such as blog posts and forums. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page.
 
